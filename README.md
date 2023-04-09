@@ -8,9 +8,9 @@ sudo apt-get install docker.io
 
 ###### Once you have done with the above steps, then run following command  #####
 
-systemctl enable docker
+systemctl start docker 
 
-sytemctl start docker 
+systemctl status docker
 
 ##### STEPS TO RUN THIS PROJECT ######
 
